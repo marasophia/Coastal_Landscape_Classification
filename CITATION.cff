@@ -4,6 +4,10 @@ authors:
   - family-names: Orescanin
     given-names: Mara
     orcid: https://orcid.org/0000-0002-0865-2738
+  - family-names: Orescanin
+    given-names: Marko
+    orcid: https://orcid.org/0000-0003-3305-8412
 title: "A deep learning assessment of coastal landscape classification from oblique aerial imagery - Data and Tools"
 version: 1.0.0
 date-released: 2022-02-28
+url: "https://github.com/marasophia/Coastal_Landscape_Classification"
